@@ -32,10 +32,7 @@ local label =
   ||  
   ||           Created by 𝕯𝖊𝖗𝕰𝖈𝖍𝖙𝖊𝕴𝖆𝖓#7381
   ||]]
-  Citizen.CreateThread(function()
-	Citizen.Wait(1)
-  print( label )
-  end)
+
 
 
 Citizen.CreateThread(function()
